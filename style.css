@@ -1,18 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
+
+body {
+    text-align: center;
+}
+
 /* the main picture of the home page, centered */
 
-.thepic {
+.pic {
     height: 300px;
     width: 500px;
     text-align: center;
 
-    
-}
-
-.pic {
-    text-align: center;
-    position: relative;
-    height: 200px;
-    top: 150px;
 }
 
 
@@ -22,3 +20,34 @@
 
 /* ==== the search bar ====  */
 
+form {
+    text-align: center;
+}
+
+#search {
+    height: 40px;
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 110px;
+
+}
+
+.btn {
+    width: 100px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+/* footer area */
+
+footer {
+    margin-top: 400px;
+    height: 200px;
+}
+
+footer h1 {
+    text-align: center;
+    font-family: 'Urbanist', sans-serif;
+}
