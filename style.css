@@ -1,0 +1,24 @@
+/* the main picture of the home page, centered */
+
+.thepic {
+    height: 300px;
+    width: 500px;
+    text-align: center;
+
+    
+}
+
+.pic {
+    text-align: center;
+    position: relative;
+    height: 200px;
+    top: 150px;
+}
+
+
+/* end of the img section */
+
+
+
+/* ==== the search bar ====  */
+
